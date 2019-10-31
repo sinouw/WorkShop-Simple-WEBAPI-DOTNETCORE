@@ -1,0 +1,14 @@
+E:\Work\JS\Angular\workshoppptest\webapitest\obj\Debug\netcoreapp2.2\webapitest.csprojAssemblyReference.cache
+E:\Work\JS\Angular\workshoppptest\webapitest\obj\Debug\netcoreapp2.2\webapitest.csproj.CoreCompileInputs.cache
+E:\Work\JS\Angular\workshoppptest\webapitest\obj\Debug\netcoreapp2.2\webapitest.RazorAssemblyInfo.cache
+E:\Work\JS\Angular\workshoppptest\webapitest\obj\Debug\netcoreapp2.2\webapitest.RazorAssemblyInfo.cs
+E:\Work\JS\Angular\workshoppptest\webapitest\obj\Debug\netcoreapp2.2\webapitest.AssemblyInfoInputs.cache
+E:\Work\JS\Angular\workshoppptest\webapitest\obj\Debug\netcoreapp2.2\webapitest.AssemblyInfo.cs
+E:\Work\JS\Angular\workshoppptest\webapitest\bin\Debug\netcoreapp2.2\webapitest.deps.json
+E:\Work\JS\Angular\workshoppptest\webapitest\bin\Debug\netcoreapp2.2\webapitest.runtimeconfig.json
+E:\Work\JS\Angular\workshoppptest\webapitest\bin\Debug\netcoreapp2.2\webapitest.runtimeconfig.dev.json
+E:\Work\JS\Angular\workshoppptest\webapitest\bin\Debug\netcoreapp2.2\webapitest.dll
+E:\Work\JS\Angular\workshoppptest\webapitest\bin\Debug\netcoreapp2.2\webapitest.pdb
+E:\Work\JS\Angular\workshoppptest\webapitest\obj\Debug\netcoreapp2.2\webapitest.RazorTargetAssemblyInfo.cache
+E:\Work\JS\Angular\workshoppptest\webapitest\obj\Debug\netcoreapp2.2\webapitest.dll
+E:\Work\JS\Angular\workshoppptest\webapitest\obj\Debug\netcoreapp2.2\webapitest.pdb
